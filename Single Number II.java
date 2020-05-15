@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int singleNumber(final List<Integer> a) {
        HashMap<Integer,Integer> map = new HashMap<Integer,Integer>();
